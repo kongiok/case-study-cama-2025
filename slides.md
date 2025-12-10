@@ -95,3 +95,13 @@ class: bg-amber-400/75
 ---
 src: ./pages/20-app-usage.md
 ---
+
+---
+layout: section
+title: 擴大知名度 —— 戰略整併
+---
+# {{ $frontmatter.title }}
+
+---
+src: ./pages/30-channel-consolidation.md
+---
