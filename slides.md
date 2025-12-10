@@ -84,3 +84,14 @@ src: ./pages/12-cama-artisan.md
 ---
 src: ./pages/13-cama-signature.md
 ---
+
+---
+layout: statement
+title: 交易工具變成「生活策展人」
+class: bg-amber-400/75
+---
+# {{ $frontmatter.title}}
+
+---
+src: ./pages/20-app-usage.md
+---
