@@ -105,3 +105,14 @@ title: 擴大知名度 —— 戰略整併
 ---
 src: ./pages/30-channel-consolidation.md
 ---
+
+---
+src: ./pages/40-conclusion.md
+---
+
+---
+layout: quote
+title: 拒絕平庸，喚醒味蕾。
+---
+
+# 「{{ $frontmatter.title }}」

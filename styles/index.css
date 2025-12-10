@@ -10,8 +10,7 @@
   }
   h3 {
     font-size: 1.875rem;
-    color: theme("colors.amber-700");
     font-weight: 900;
-    font-family: serif;
+    opacity: 1 !important;
   }
 }
