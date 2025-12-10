@@ -58,3 +58,7 @@ export:
 ---
 src: ./pages/00-strategy.md
 ---
+
+---
+src: ./pages/01-diagnosis.md
+---
