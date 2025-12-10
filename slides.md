@@ -54,3 +54,7 @@ export:
 ## What about cama?
 比上不足、比下有餘
 -->
+
+---
+src: ./pages/00-strategy.md
+---

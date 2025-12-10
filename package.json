@@ -1,11 +1,16 @@
 {
   "name": "case-study-cama",
   "type": "module",
+  "engines": {
+    "node": "~22",
+    "pnpm": "~10"
+  },
   "private": true,
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "postinstall": "pnpm exec playwright install"
   },
   "dependencies": {
     "@slidev/cli": "^52.11.0",
