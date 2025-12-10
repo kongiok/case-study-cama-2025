@@ -62,3 +62,25 @@ src: ./pages/00-strategy.md
 ---
 src: ./pages/01-diagnosis.md
 ---
+
+---
+layout: statement
+---
+
+# 解方
+
+---
+src: ./pages/10-brand-simplification.md
+---
+
+---
+src: ./pages/11-cama-stand.md
+---
+
+---
+src: ./pages/12-cama-artisan.md
+---
+
+---
+src: ./pages/13-cama-signature.md
+---
